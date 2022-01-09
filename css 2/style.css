@@ -1,0 +1,61 @@
+body {
+    margin: 0 6%;
+    padding: 0px;
+    text-align: center;
+    align-items: center;
+}
+
+.box {
+    background-color: #62B3AA;
+    display: inline-block;
+    margin-top: 30px;
+    margin: 2px;
+    height: 120px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.content {
+    background-color: #eeeeee;
+}
+
+#card1 {
+    width: 38%;
+    float: left;
+    background-color: #7EE5DA;
+}
+
+#card2 {
+    width: 22.1%;
+    float: left;
+    background-color: #70CCC2;
+}
+
+#card3 {
+    width: 39%;
+    float: left;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    width: 30%;
+}
+
+footer {
+    margin-top: 20px;
+}
