@@ -1,0 +1,16 @@
+#header {
+    font-size: 30px;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.app-title {
+    position: center;
+}
+
+body {
+    background-color: #f8f8ff;
+}
